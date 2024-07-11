@@ -1,3 +1,1 @@
 Hello, GitHub!
-This is the new repo file
-this is the tsecond commit
